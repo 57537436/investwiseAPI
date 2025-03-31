@@ -1,0 +1,2 @@
+Date,stock1_close,stock2_close,bond_yield,gold_price,oil_price,CPI,unemployment_rate,GDP_growth,interest_rate,consumer_confidence,VIX,stock_allocation,bond_allocation,commodity_allocation,portfolio_return
+01/05/2149,3164.040553,4773.964214,54.6312083,4496.768259,1946.620694,307.1495173,-42.19403972,229.6583749,188.9141932,-358.2159761,-437.6057367,0.7516,0.1484,0.1,0.027748197

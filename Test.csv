@@ -1,0 +1,2 @@
+﻿Client_ID,Risk_Tolerance,Bond_1_Price,Bond_2_Price,Bond_3_Price,Bond_1_Yield,Bond_2_Yield,Bond_3_Yield,Bond_1_Historical_Return,Bond_2_Historical_Return,Bond_3_Historical_Return,Bond_1_Duration,Bond_2_Duration,Bond_3_Duration,Bond_1_Credit_Rating,Bond_2_Credit_Rating,Bond_3_Credit_Rating,Inflation_Rate,Interest_Rate,Market_Condition,Timestamp
+49,High,97.3942269,102.9551724,92.38248484,0.019027834,0.02869109,0.049882636,0.011644937,0.003603181,0.002053899,6.360077066,5.360983261,4.551553466,A,BBB,BBB,2.680155843,1.597873912,Bear,30/01/2023

@@ -1,0 +1,10 @@
+ECHO is on.
+# Virtual environment
+.venv/
+env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
